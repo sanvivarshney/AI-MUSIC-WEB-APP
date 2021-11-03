@@ -1,0 +1,28 @@
+.heading
+{
+    width: 100%;
+    margin: 0;
+    font-size: 23px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.note
+{
+    color: rgb(129, 4, 187);
+    font-size: 20px;
+}
+
+body
+{
+    font-family: 'Fruktur', cursive;
+    font-family: 'Lobster', cursive;
+    background-size: cover;
+    background-position: center;
+}
+
+#Song-Name
+{
+    font-size: 22px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px grey;
+}
